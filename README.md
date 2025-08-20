@@ -1,1 +1,2 @@
-# DataCamp Soccer Data Analysis Project
+# DataCamp Soccer Data Analysis Project 
+# All the data was provided by WyScout
