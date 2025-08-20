@@ -6,8 +6,8 @@ import seaborn as sns
 
 st.title('Advanced data visualization (ball recoveries, ball turnovers, heatmaps)')
 
-teams_Data = pd.read_csv('data/Team_DefenseMetrics_Profiles.csv')
-event_Data = pd.read_csv('data/Opponent_Event_Data.csv')
+teams_Data = pd.read_csv('dashboarding_code/data/Team_DefenseMetrics_Profiles.csv')
+event_Data = pd.read_csv('dashboarding_code/data/Opponent_Event_Data.csv')
 
 option = st.selectbox(
     "Select a team for which you would like to see the defensive metrics and profile",

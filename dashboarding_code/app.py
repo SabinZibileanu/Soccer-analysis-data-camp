@@ -1,8 +1,9 @@
 import streamlit as st
 import pandas as pd
 
+
 st.title('Defensive scouting analysis report for teams')
-teams_Data = pd.read_csv('data/Team_DefenseMetrics_Profiles.csv')
+teams_Data = pd.read_csv('dashboarding_code/data/Team_DefenseMetrics_Profiles.csv')
 option = st.selectbox(
     "Select a team for which you would like to see the defensive metrics and profile",
     (teamName for teamName in teams_Data['team.name']),

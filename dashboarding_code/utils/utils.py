@@ -3,7 +3,7 @@ import json
 from matplotlib.patches import Arc
 
 
-with open('data/matchResultsMappings.json', 'r') as matchRes_File:
+with open('dashboarding_code/data/matchResultsMappings.json', 'r') as matchRes_File:
     matchResults = json.load(matchRes_File)
 
 def plotTeamsData(teams, plottingValues, plotTitle, yLabel):
