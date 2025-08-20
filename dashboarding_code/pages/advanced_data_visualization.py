@@ -3,12 +3,11 @@ from matplotlib import pyplot as plt
 import streamlit as st
 from utils.utils import get_Turnover_Recovery_Data, matchResults, plotTeamsData, get_Loss_Recovery_Coordinates, plot_Loss_Recovery_HeatMap
 import seaborn as sns
-import os
 
 st.title('Advanced data visualization (ball recoveries, ball turnovers, heatmaps)')
 
-teams_Data = pd.read_csv(os.path.join('data, Team_DefenseMetrics_Profiles.csv'))
-event_Data = pd.read_csv(os.path.join('data/Opponent_Event_Data.csv'))
+teams_Data = pd.read_csv('data/Team_DefenseMetrics_Profiles.csv')
+event_Data = pd.read_csv('data/Opponent_Event_Data.csv')
 
 option = st.selectbox(
     "Select a team for which you would like to see the defensive metrics and profile",

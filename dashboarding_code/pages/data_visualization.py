@@ -1,10 +1,9 @@
 import streamlit as st
 import pandas as pd
 from utils.utils import plotTeamsData, getMatchPoints, matchResults
-import os
 
-event_Data = pd.read_csv(os.path.join('data, Opponent_Event_Data.csv'))
-teams_Data = pd.read_csv(os.path.join('data, Team_DefenseMetrics_Profiles.csv'))
+event_Data = pd.read_csv('data/Opponent_Event_Data.csv')
+teams_Data = pd.read_csv('data/Team_DefenseMetrics_Profiles.csv')
 Dinamo_Team_Points = getMatchPoints(matchResults, event_Data)
 
 st.title('Data visualization (team points against every opponent, metrics)')
