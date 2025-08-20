@@ -1,0 +1,97 @@
+team.name,teamId,total.concededGoals,total.successfulDefensiveActions,total.losses,total.dangerousOwnHalfLosses,total.interceptions,total.recoveries,total.duels,total.pressingDuels,percent.defensiveDuelsWon,average.opponentOffsides,ownHalfLossRate,defensiveErrorRates,interceptionRecoveryRate,pressingIntensityRate,teamProfile
+Dinamo Bucuresti,11564,43,3972,4516,194,1513,3299,8002,435,23.64,1.28,4.3,0.01082578,45.86,5.44,"This team concedes goals in spite of their succesful defensive actions. It can be attempted to force them to make mistakes
+ ,This team does not lose the ball that often in its own half, with a loss percentage of 4.3%, proving that the team has a high control in its own half
+ ,This team is very good in 1 on 1 defensive situations, with a 23.64% of won duels
+ ,This team is below the league average when recovering the posssesion by interceptions, with 45.86%. They can be vulnerable against successful link up plays
+ ,This team is a laid back one in terms of pressing. They will be patient when recovering the ball
+"
+FCS Bucuresti,11565,32,3859,4559,179,1440,3484,8376,537,25.1,0.98,3.93,0.008292304,41.33,6.41,"This team is not defensive error prone. They have an error rate of 0.008292303705623219% and mistakes are rare with them
+ ,This team does not lose the ball that often in its own half, with a loss percentage of 3.93%, proving that the team has a high control in its own half
+ ,This team is very good in 1 on 1 defensive situations, with a 25.1% of won duels
+ ,This team is below the league average when recovering the posssesion by interceptions, with 41.33%. They can be vulnerable against successful link up plays
+ ,This team is a high pressing one. Watch out for their intensity and try to not lose the ball. Try to force them into a mistake and catch them off guard
+"
+Rapid Bucuresti,11566,37,3775,4505,194,1494,3296,7779,431,22.55,2,4.31,0.009801325,45.33,5.54,"This team is not defensive error prone. They have an error rate of 0.00980132450331126% and mistakes are rare with them
+ ,This team does not lose the ball that often in its own half, with a loss percentage of 4.31%, proving that the team has a high control in its own half
+ ,This team is below the league average on 1 on 1 defensive situations, they can be vulnerable there
+ ,This team is below the league average when recovering the posssesion by interceptions, with 45.33%. They can be vulnerable against successful link up plays
+ ,This team is a laid back one in terms of pressing. They will be patient when recovering the ball
+"
+Otelul,11571,37,4555,5229,231,1711,3881,8961,367,23.63,1.65,4.42,0.008122942,44.09,4.1,"This team is not defensive error prone. They have an error rate of 0.008122941822173435% and mistakes are rare with them
+ ,This team does not lose the ball that often in its own half, with a loss percentage of 4.42%, proving that the team has a high control in its own half
+ ,This team is very good in 1 on 1 defensive situations, with a 23.63% of won duels
+ ,This team is below the league average when recovering the posssesion by interceptions, with 44.09%. They can be vulnerable against successful link up plays
+ ,This team is a laid back one in terms of pressing. They will be patient when recovering the ball
+"
+CFR Cluj,11611,41,3987,4675,159,1537,3505,8194,478,23.68,1.1,3.4,0.010283421,43.85,5.83,"This team concedes goals in spite of their succesful defensive actions. It can be attempted to force them to make mistakes
+ ,This team does not lose the ball that often in its own half, with a loss percentage of 3.4%, proving that the team has a high control in its own half
+ ,This team is very good in 1 on 1 defensive situations, with a 23.68% of won duels
+ ,This team is below the league average when recovering the posssesion by interceptions, with 43.85%. They can be vulnerable against successful link up plays
+ ,This team is a high pressing one. Watch out for their intensity and try to not lose the ball. Try to force them into a mistake and catch them off guard
+"
+Botosani,11634,49,4169,5086,155,1663,3562,8569,463,21.32,2.28,3.05,0.011753418,46.69,5.4,"This team concedes goals in spite of their succesful defensive actions. It can be attempted to force them to make mistakes
+ ,This team does not lose the ball that often in its own half, with a loss percentage of 3.05%, proving that the team has a high control in its own half
+ ,This team is below the league average on 1 on 1 defensive situations, they can be vulnerable there
+ ,This team performs well when recovering the posssesion by interceptions
+ ,This team is a laid back one in terms of pressing. They will be patient when recovering the ball
+"
+Unirea Slobozia,11663,55,4602,5206,253,1770,3747,9123,413,20.54,1.48,4.86,0.011951326,47.24,4.53,"This team concedes goals in spite of their succesful defensive actions. It can be attempted to force them to make mistakes
+ ,This team tends to lose the ball frequently in its own half, with a loss percentage of 4.86% which is above the league average
+ ,This team is below the league average on 1 on 1 defensive situations, they can be vulnerable there
+ ,This team performs well when recovering the posssesion by interceptions
+ ,This team is a laid back one in terms of pressing. They will be patient when recovering the ball
+"
+Poli Iasi,11886,51,4202,4963,236,1812,3585,8115,431,21.86,2.37,4.76,0.012137078,50.54,5.31,"This team concedes goals in spite of their succesful defensive actions. It can be attempted to force them to make mistakes
+ ,This team tends to lose the ball frequently in its own half, with a loss percentage of 4.76% which is above the league average
+ ,This team is below the league average on 1 on 1 defensive situations, they can be vulnerable there
+ ,This team performs well when recovering the posssesion by interceptions
+ ,This team is a laid back one in terms of pressing. They will be patient when recovering the ball
+"
+Universitatea Craiova,26233,38,3868,4475,182,1514,3371,7989,411,23.85,0.94,4.07,0.009824199,44.91,5.14,"This team is not defensive error prone. They have an error rate of 0.00982419855222337% and mistakes are rare with them
+ ,This team does not lose the ball that often in its own half, with a loss percentage of 4.07%, proving that the team has a high control in its own half
+ ,This team is very good in 1 on 1 defensive situations, with a 23.85% of won duels
+ ,This team is below the league average when recovering the posssesion by interceptions, with 44.91%. They can be vulnerable against successful link up plays
+ ,This team is a laid back one in terms of pressing. They will be patient when recovering the ball
+"
+UTA Arad,30817,46,4261,4905,245,1744,3505,8266,403,22.35,1.01,4.99,0.010795588,49.76,4.88,"This team concedes goals in spite of their succesful defensive actions. It can be attempted to force them to make mistakes
+ ,This team tends to lose the ball frequently in its own half, with a loss percentage of 4.99% which is above the league average
+ ,This team is below the league average on 1 on 1 defensive situations, they can be vulnerable there
+ ,This team performs well when recovering the posssesion by interceptions
+ ,This team is a laid back one in terms of pressing. They will be patient when recovering the ball
+"
+Sepsi,30827,51,4166,5004,235,1660,3645,8491,592,23.98,1.66,4.7,0.012241959,45.54,6.97,"This team concedes goals in spite of their succesful defensive actions. It can be attempted to force them to make mistakes
+ ,This team tends to lose the ball frequently in its own half, with a loss percentage of 4.7% which is above the league average
+ ,This team is very good in 1 on 1 defensive situations, with a 23.98% of won duels
+ ,This team is below the league average when recovering the posssesion by interceptions, with 45.54%. They can be vulnerable against successful link up plays
+ ,This team is a high pressing one. Watch out for their intensity and try to not lose the ball. Try to force them into a mistake and catch them off guard
+"
+Hermannstadt,55427,48,3825,4572,261,1641,3356,7491,544,21.11,1.23,5.71,0.01254902,48.9,7.26,"This team concedes goals in spite of their succesful defensive actions. It can be attempted to force them to make mistakes
+ ,This team tends to lose the ball frequently in its own half, with a loss percentage of 5.71% which is above the league average
+ ,This team is below the league average on 1 on 1 defensive situations, they can be vulnerable there
+ ,This team performs well when recovering the posssesion by interceptions
+ ,This team is a high pressing one. Watch out for their intensity and try to not lose the ball. Try to force them into a mistake and catch them off guard
+"
+Universitatea Cluj,60374,40,4069,4764,197,1613,3581,8324,574,22.63,1.97,4.14,0.009830425,45.04,6.9,"This team is not defensive error prone. They have an error rate of 0.009830425165888425% and mistakes are rare with them
+ ,This team does not lose the ball that often in its own half, with a loss percentage of 4.14%, proving that the team has a high control in its own half
+ ,This team is very good in 1 on 1 defensive situations, with a 22.63% of won duels
+ ,This team is below the league average when recovering the posssesion by interceptions, with 45.04%. They can be vulnerable against successful link up plays
+ ,This team is a high pressing one. Watch out for their intensity and try to not lose the ball. Try to force them into a mistake and catch them off guard
+"
+Petrolul 52,60390,39,4165,4815,226,1603,3484,8255,439,23.39,1.1,4.69,0.009363745,46.01,5.32,"This team is not defensive error prone. They have an error rate of 0.00936374549819928% and mistakes are rare with them
+ ,This team tends to lose the ball frequently in its own half, with a loss percentage of 4.69% which is above the league average
+ ,This team is very good in 1 on 1 defensive situations, with a 23.39% of won duels
+ ,This team is below the league average when recovering the posssesion by interceptions, with 46.01%. They can be vulnerable against successful link up plays
+ ,This team is a laid back one in terms of pressing. They will be patient when recovering the ball
+"
+AS FC Buzau,60392,65,4059,4892,283,1707,3446,7946,486,21.43,1.65,5.78,0.016013797,49.54,6.12,"This team concedes goals in spite of their succesful defensive actions. It can be attempted to force them to make mistakes
+ ,This team tends to lose the ball frequently in its own half, with a loss percentage of 5.78% which is above the league average
+ ,This team is below the league average on 1 on 1 defensive situations, they can be vulnerable there
+ ,This team performs well when recovering the posssesion by interceptions
+ ,This team is a high pressing one. Watch out for their intensity and try to not lose the ball. Try to force them into a mistake and catch them off guard
+"
+Farul Constanta,61242,47,4219,5114,283,1801,3610,8215,332,20.25,1.2,5.53,0.011140081,49.89,4.04,"This team concedes goals in spite of their succesful defensive actions. It can be attempted to force them to make mistakes
+ ,This team tends to lose the ball frequently in its own half, with a loss percentage of 5.53% which is above the league average
+ ,This team is below the league average on 1 on 1 defensive situations, they can be vulnerable there
+ ,This team performs well when recovering the posssesion by interceptions
+ ,This team is a laid back one in terms of pressing. They will be patient when recovering the ball
+"
