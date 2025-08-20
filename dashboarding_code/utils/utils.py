@@ -1,9 +1,10 @@
 from matplotlib import pyplot as plt
 import json
 from matplotlib.patches import Arc
+import os
 
 
-with open('data\matchResultsMappings.json', 'r') as matchRes_File:
+with open(os.path.join('data, matchResultsMappings.json'), 'r') as matchRes_File:
     matchResults = json.load(matchRes_File)
 
 def plotTeamsData(teams, plottingValues, plotTitle, yLabel):
